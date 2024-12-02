@@ -1,0 +1,16 @@
+credentials:
+  usernames:
+    admin:
+      email: murilo.maia@claglobal.com.br
+      logged_in: False
+      name: Murilo Maia
+      password: 'Cla@1234'
+    indiretos:
+      email: testando1@claglobal.com.br
+      logged_in: False
+      name: Usuario
+      password: 'Cla@1234'
+cookie:
+  expiry_days: 1
+  key: some_signature_key
+  name: some_cookie_name
